@@ -6,7 +6,7 @@
 
 ## 📚 Studied at Fasttrack Technology Academy at the age of 12.
 
-## I’m currently working on Roblox Studio Projects and learning about cybersecurity javascript and arduino (probbably)
+## I’m currently working on Roblox Studio Projects and learning about cybersecurity javascript (and arduino probbably)
 
 
 <!--
