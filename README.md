@@ -1,8 +1,14 @@
 # Hi there 👋
 # My name is Hosea
-## This is my github as i'm an upcoming developer and this will show my things I learn in my lessons
+# I am a upcoming software developer and game developer. Studied at Fasttrack Technology Academy at the age of 12(And still studing there).
 
-## 📷 I mainly show what im working on my [Youtube](https://www.youtube.com/channel/UCSzeBSHZ29OV5JWWNaM48Fw)(Probabbly)
-## I Have a website as well: https://hoseascalewebsite.vercel.app/
+# Contact
+# Email: hoseascale1@outlook.com
 
-## 📚 Studied at Fasttrack Technology Academy at the age of 12.
+# YouTube: https://www.youtube.com/channel/UCSzeBSHZ29OV5JWWNaM48Fw
+
+# Website: https://hoseascalewebsite.vercel.app/
+
+# Codewars: https://www.codewars.com/users/Hosea1507
+
+# (No, I go to school if you are wondering and Fasttrack Technology Academy is a computer club)
